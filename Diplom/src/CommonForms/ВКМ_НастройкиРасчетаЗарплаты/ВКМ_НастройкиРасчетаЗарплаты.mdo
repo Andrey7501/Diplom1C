@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonForm xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4fb32cb5-8607-468d-af1f-8abc9de6ca4e">
+  <name>ВКМ_НастройкиРасчетаЗарплаты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Настройки расчета зарплаты</value>
+  </synonym>
+  <usePurposes>PersonalComputer</usePurposes>
+  <usePurposes>MobileDevice</usePurposes>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:CommonForm>
