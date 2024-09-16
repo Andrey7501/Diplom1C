@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b224730a-4fa0-49e5-b657-45e6f793e3da">
+  <name>ВКМ_ВспомогательныеФункцииКлиентСервер</name>
+  <synonym>
+    <key>ru</key>
+    <value>Вспомогательные функции</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

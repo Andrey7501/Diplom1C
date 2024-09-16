@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="802d8a20-247f-494c-8714-bc155763c713">
+  <name>ВКМ_РаботаСБотом</name>
+  <synonym>
+    <key>ru</key>
+    <value>Работа с ботом</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>84462cb9-a1fa-43a8-975c-1eadaa1f2fc9</content>
+  <content>Document.ВКМ_ВходящийHTTPЗапрос</content>
+  <content>Catalog.ВКМ_УчетныеЗаписиТелеграм</content>
+  <content>Constant.ВКМ_СекретТелеграмБота</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+</mdclass:Subsystem>
