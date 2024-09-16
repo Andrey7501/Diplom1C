@@ -2412,6 +2412,26 @@
 	<object>
 		<name>Catalog.ВКМ_УведомленияТелеграмБоту</name>
 		<right>
+			<name>Read</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>Insert</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>Delete</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>false</value>
+		</right>
+		<right>
 			<name>InteractiveInsert</name>
 			<value>false</value>
 		</right>
